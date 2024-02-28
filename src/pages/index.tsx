@@ -36,7 +36,7 @@ export function IndexPage() {
   return (
     <div dir='ltr' className='flex flex-col items-center'>
       <h1 className='font-extrabold text-3xl my-5 animate__animated animate__bounce'>
-        Index Page
+        Index Pagess
       </h1>
 
       {/* For reCall & call API */}
